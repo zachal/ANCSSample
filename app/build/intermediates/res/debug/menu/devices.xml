@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/scan"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/scan"/>
+
+</menu>
+<!-- From: file:/Users/zatipnis/AndroidStudioProjects/iPhone-Moto360%20Pair/app/src/main/res/menu/devices.xml -->

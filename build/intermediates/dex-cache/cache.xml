@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/zatipnis/AndroidStudioProjects/iPhone-Moto360 Pair/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="/Users/zatipnis/AndroidStudioProjects/iPhone-Moto360 Pair/app/build/intermediates/pre-dexed/debug/classes-a2ae0a296cba7b69389dda0eb2d4c3302daccb98.jar" />
+    </item>
+    <item
+        jar="/Users/zatipnis/AndroidStudioProjects/iPhone-Moto360 Pair/app/build/intermediates/exploded-aar/com.google.android.support/wearable/1.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="27f19641b81b1078e653d2f0e5d1ed44d158a785">
+        <dex dex="/Users/zatipnis/AndroidStudioProjects/iPhone-Moto360 Pair/app/build/intermediates/pre-dexed/debug/classes-dd53a7e651bb502d7098e553e72a2fc06c023f00.jar" />
+    </item>
+    <item
+        jar="/Users/zatipnis/AndroidStudioProjects/iPhone-Moto360 Pair/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6384c6cd674a22610b932d9464aa6938d067f285">
+        <dex dex="/Users/zatipnis/AndroidStudioProjects/iPhone-Moto360 Pair/app/build/intermediates/pre-dexed/debug/classes-aa54a0c0b45bfae8e9ab580a9cf8a75c558acd05.jar" />
+    </item>
+    <item
+        jar="/Users/zatipnis/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/zatipnis/AndroidStudioProjects/iPhone-Moto360 Pair/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-fe270d2cb087fca44f3147296cd3f150ad7308a0.jar" />
+    </item>
+    <item
+        jar="/Users/zatipnis/AndroidStudioProjects/iPhone-Moto360 Pair/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/zatipnis/AndroidStudioProjects/iPhone-Moto360 Pair/app/build/intermediates/pre-dexed/debug/classes-64197d0f443c3e5486bc1ddcaff62c4efba8b8c2.jar" />
+    </item>
+    <item
+        jar="/Users/zatipnis/AndroidStudioProjects/iPhone-Moto360 Pair/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/zatipnis/AndroidStudioProjects/iPhone-Moto360 Pair/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-20eaa6ce49a2f317341ed4f549fd42bb3569d9f7.jar" />
+    </item>
+    <item
+        jar="/Users/zatipnis/AndroidStudioProjects/iPhone-Moto360 Pair/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="/Users/zatipnis/AndroidStudioProjects/iPhone-Moto360 Pair/app/build/intermediates/pre-dexed/debug/classes-e4ed96be9a449894e55d92043f21cec9b3474ad8.jar" />
+    </item>
+    <item
+        jar="/Users/zatipnis/AndroidStudioProjects/iPhone-Moto360 Pair/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/zatipnis/AndroidStudioProjects/iPhone-Moto360 Pair/app/build/intermediates/pre-dexed/debug/classes-a790144f845cfc3e0c3fdea9071f16addc869174.jar" />
+    </item>
+
+</items>
